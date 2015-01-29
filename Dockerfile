@@ -7,4 +7,3 @@ MAINTAINER William Jones <billy@freshjones.com>
 VOLUME ["/app/laravel"]
 
 CMD ["/bin/sh"]
-
